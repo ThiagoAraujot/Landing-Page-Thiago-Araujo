@@ -534,6 +534,13 @@ img {
   color: #5b0888;
 }
 
+.logo-company {
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+  margin-bottom: var(--margin-bottom-0-25);
+}
+
 /* services  */
 .services-container {
   gap: 1.5rem;
